@@ -17,5 +17,6 @@ if(event.which === 13){
 }
 })
 $('.fa-plus').click(function(){
+    
     $('input').fadeToggle()
 })
